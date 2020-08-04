@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'WRCKit_Example' do
+  pod 'WRCKit', :path => '../'
+
+  target 'WRCKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
