@@ -1,0 +1,22 @@
+{
+  "name": "WRCKit",
+  "version": "0.1.0",
+  "summary": "A short description of WRCKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/WRC/WRCKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "WRC": "375016541@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/WRC/WRCKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "WRCKit/Classes/**/*"
+}

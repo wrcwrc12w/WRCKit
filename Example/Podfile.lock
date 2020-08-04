@@ -1,0 +1,16 @@
+PODS:
+  - WRCKit (0.1.0)
+
+DEPENDENCIES:
+  - WRCKit (from `../`)
+
+EXTERNAL SOURCES:
+  WRCKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  WRCKit: eb8b5d1b9bd303de7df11285767b77eb34a031da
+
+PODFILE CHECKSUM: 0aba9d28ef5a8b53b0b6b17ceb42e6fba8e415ea
+
+COCOAPODS: 1.9.3

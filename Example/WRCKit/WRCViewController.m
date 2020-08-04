@@ -7,6 +7,7 @@
 //
 
 #import "WRCViewController.h"
+#import "Test.h"
 
 @interface WRCViewController ()
 
@@ -18,6 +19,8 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+    Test *test = [[Test alloc]init];
+    [test testPrint];
 }
 
 - (void)didReceiveMemoryWarning

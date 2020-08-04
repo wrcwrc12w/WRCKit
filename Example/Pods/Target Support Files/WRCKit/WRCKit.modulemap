@@ -1,0 +1,6 @@
+framework module WRCKit {
+  umbrella header "WRCKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
